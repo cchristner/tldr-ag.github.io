@@ -3,6 +3,7 @@ layout: post
 title:  "workouts"
 date:   2024-03-7 22:30:14 -0500
 categories: jekyll update
+permalink: /blog
 ---
 
 4 sets:
