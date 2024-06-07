@@ -17,6 +17,7 @@ Prolific Machines is in the Food Tech news recently due to a series B1 round tha
 
 Previously, this sort of manufacturing would be done by introducing 
 
-Optogenetics isn't new - it's been used for years in neuroscience. 
+https://www.youtube.com/watch?v=A9a2P30sDl4
+Optogenetics isn't new - it's been used for years in neuroscience. Take light sensetive protien from things like Algae in a pond and use them in rats or mice. Ultraviolet light or carbon dioxide detectors. 
 
 -->
