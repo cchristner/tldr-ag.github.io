@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optogenetics: Bioengineering and AI"
+title:  "Optogenetics in Food: Bioengineering and AI"
 author: "Corey Christner"
 date:   2024-06-06 23:00 -0000
 categories: jekyll update
