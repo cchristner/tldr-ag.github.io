@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optogenetics in Food: Bioengineering and AI"
+title:  "Biomanufacturing: a 'breadth over depth' introduction"
 author: "Corey Christner"
 date:   2024-06-06 23:00 -0000
 categories: jekyll update
