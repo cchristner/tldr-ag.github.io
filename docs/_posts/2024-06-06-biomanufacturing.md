@@ -2,7 +2,7 @@
 layout: post
 title:  "Biomanufacturing: a short intro"
 author: "Corey Christner"
-date:   2024-06-06 23:00 -0000
+date:   2024-06-14 23:00 -0000
 categories: jekyll update
 ---
 
@@ -13,4 +13,4 @@ I recently came across this clip, which turned my spark of interest into a real 
 
 Now, it would be very difficult for me to give an overall picture of biomanufacturing - there's simply too much for me to learn, understand, and regurgitate back in this article. Given my background in banking and finance, I thought the best way for me to learn is focus on a few tech companies/startups that are looking to solve problems in the space. I want to begin to understand the science behind the tech they've developed and what is the impact on the industry. 
 
-The first company I wanted to cover is [Prolific Machines](https://www.prolific-machines.com/). 
+The first company I wanted to cover is [Prolific Machines](https://www.prolific-machines.com/). Recently, the company is in the Food Tech news recently for raising $55 million in a funding round. On the surface, what they do seems more like Sci-Fi than real science. Their technology adds proteins to cells that are used to manufacture things like ingredients in infant formula and vaccines. 
