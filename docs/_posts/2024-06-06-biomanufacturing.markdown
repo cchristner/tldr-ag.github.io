@@ -2,7 +2,7 @@
 layout: post
 title:  "Biomanufacturing: a short intro"
 author: "Corey Christner"
-date:   2024-06-14 23:00 -0000
+date:   2024-06-18 23:00 -0000
 categories: jekyll update
 ---
 
