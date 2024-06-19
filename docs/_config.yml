@@ -21,7 +21,7 @@
 title: #WDYMT
 email: cchristner91@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm not sure what this is yet...
+  just a dummy trying to be less dumb
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "cchristner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tldr_ag
