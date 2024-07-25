@@ -7,3 +7,5 @@ categories: jekyll update
 ---
 
 1. [Have a lot of sensors on your farm or property? Hate swapping batteries, running power, setting up bulky solar panels? Look no further than the soil you're standing on.](https://spectrum.ieee.org/smart-agriculture)
+
+2. [Reliance on China for drone infrastructure in question as producers increasingly adopt their use on the farm.](https://www.agriculturedive.com/news/ag-drone-retailers-fight-china-dji-ban/721597/)
