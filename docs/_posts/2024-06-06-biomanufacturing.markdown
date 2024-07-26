@@ -14,4 +14,4 @@ categories: jekyll update
 
 4. [InnerPlant helps plants send stress signals early, allowing producers to intervene and protect yields. Recent $30M funding round led by farmers. ](https://agfundernews.com/innerplant-bags-30m-series-b-led-by-its-ideal-investors-an-alliance-of-north-american-farmers)
 
-5. [Precision AI breaks from convention with Status Airsprayer&trade;.](https://www.precision.ai/resources/1348/precision-ai-unveils-their-uav-design)
+5. [Precision AI breaks from convention with Stratus Airsprayer&trade;.](https://www.precision.ai/resources/1348/precision-ai-unveils-their-uav-design)
