@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Daily Links | Thursday, 7-25-2024"
+title:  "Assorted Links | Thursday, 7/25/2024"
 author: "Corey Christner"
-date:   2024-06-18 23:00 -0000
+date:   2024-07-25 23:00 -0000
 categories: jekyll update
 ---
 
