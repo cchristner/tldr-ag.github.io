@@ -11,7 +11,7 @@ categories: jekyll update
 2. [Boosted breeding from Ohalo Genetics a major breakthrough. There is “definitely a holy shit moment when you speak with breeders about it,” said Friedberg.](https://agfundernews.com/armed-with-100m-in-funding-dave-friedberg-unveils-boosted-breeding-tech-at-ohalo-in-holy-shit-moment-for-crop-breeders)
 
 3. [Fruit Walls and the first greenhouses.](https://solar.lowtechmagazine.com/2015/12/fruit-walls-urban-farming-in-the-1600s/)  
-*Note - site is run via solar power so sometimes it's not active.
+*Note - site is run via solar power - sometimes it's not active.
 
 
 4. []()
