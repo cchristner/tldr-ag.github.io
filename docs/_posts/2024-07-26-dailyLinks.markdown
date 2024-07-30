@@ -12,6 +12,3 @@ categories: jekyll update
 
 3. [Fruit Walls and the first greenhouses.](https://solar.lowtechmagazine.com/2015/12/fruit-walls-urban-farming-in-the-1600s/)  
 *Note - site is run via solar power - sometimes it's not active.
-
-
-4. []()
